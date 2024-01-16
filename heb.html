@@ -1,0 +1,24 @@
+---
+layout: hebrew
+permalink: /heb
+---
+
+
+{% include career-profile.html %}
+
+{% unless site.data.heb.sidebar.education %}
+  {% include education_heb.html %}
+{% endunless %}
+
+{% include projects.html %}
+
+{% include experiences.html %}
+
+{% include certifications.html %}
+
+{% include skills.html %}
+
+{% include oss-contributions.html %}
+
+{% include publications.html %}
+
