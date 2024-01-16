@@ -75,11 +75,11 @@ projects:
 
       - title: Articles for Chupchik
         link: "#"
-        tagline: "some writing samples in Hebrew. [Zemmy please decide how do be this part](google.com)"
+        tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"
         
       - title: Seminar Paper in Anthropology - Hebrew
         link: "#"
-        tagline: "some writing samples in Hebrew. <a href="#">Zemmy please decide how do be this part</a>"
+        tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"
 
       - title: Seminar Paper in Political Science - Hebrew
         link: "#"
