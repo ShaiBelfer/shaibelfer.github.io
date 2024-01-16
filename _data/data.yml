@@ -58,7 +58,7 @@ projects:
       Here's where you get to see me in action.
     assignments:
       - title: Final Project for Data Analyst Course (INT College, Jan 2024)
-        link: "#hook"
+        link: "#"
         tagline: "This is the presentation we made for our project, an analysis of data regarding taxis in Chicago in 2023. I wrote pretty much all the text in this slideshow. We received a grade of 100%"
 
       - title: SQL Code for Final Project
@@ -74,11 +74,11 @@ projects:
         tagline: "This is a work in progress."
 
       - title: Articles for Chupchik
-        link: "#"
+        link: "/articles"
         tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"
         
       - title: Seminar Paper in Anthropology - Hebrew
-        link: "#"
+        link: "/seminars"
         tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"
 
       - title: Seminar Paper in Political Science - Hebrew
