@@ -4,30 +4,21 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Shai Belfer
-    tagline: Full Stack Developer
+    tagline: Data Analyst
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 
+    email: shaibelfer@gmail.com 
+    phone: +972-522326403
     timezone: Asia/Jerusalem Timezone
-    citizenship:
-    website: 
+    citizenship: Israeli, Canadian, Australian
     linkedin: shai-belfer
-    xing: 
     github: shaibelfer
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
     languages:
@@ -36,78 +27,71 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Hebrew
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Movies
           link:
 
-        - item: Snowboarding
+        - item: Music
           link:
 
-        - item: Cooking
+        - item: Politics
           link:
+          
+        - item: Cats
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-      
+      Thanks for stopping by!
+      I'm a data analyst, BI analyst, programmer, writer, translator, and very bad cook.
+      In the past I was a music journalist, believe it or not. Music is still a major part of my life.
+      On this website you can get an idea of some of the things I can do and some of the things I have done.
+      Hope you like it!
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here's where you get to see me in action.
     assignments:
-      - title: Velocity
+      - title: Final Project for Data Analyst Course (INT College, Jan 2024)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "This is the presentation we made for our project, an analysis of data regarding taxis in Chicago in 2023. I wrote pretty much all the text in this slideshow. We received a grade of 100%"
 
-      - title: DevStudio
+      - title: SQL Code for Final Project
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "This is the bit of SQL code I wrote for the project, with annotations."
 
-      - title: Tempo
+      - title: Power BI Project - COVID Data (INT College, August 2023)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "This simple project presents some visualizations we made in Power BI, with insights about how the world's countries responded to the COVID-19 epidemic"
 
-      - title: Atom
+      - title: Python and Pandas Project - Migrant workers in Israel data
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "This is a work in progress."
 
-      - title: Delta
+      - title: Articles for Chupchik
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "some writing samples in Hebrew. [Zemmy please decide how do be this part](google.com)"
+        
+      - title: Seminar Paper in Anthropology - Hebrew
+        link: "#"
+        tagline: "some writing samples in Hebrew. <a href="#">Zemmy please decide how do be this part</a>"
+
+      - title: Seminar Paper in Political Science - Hebrew
+        link: "#"
+        tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"        
+        
 
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: B.A. in Political Science, Sociology and Anthropology
+        university: Ben Gurion University of the Negev
+        time: 2017 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
