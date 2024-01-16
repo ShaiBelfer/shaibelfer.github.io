@@ -5,6 +5,11 @@ permalink: /seminars
 
 # Test
 
-[test markdown link](https://www.reddit.com)
+Some text here
 
-[test internal link](/seminars/Anthropology Seminar Shai Belfer.pdf)
+[Athropology seminar link](/seminars/Anthropology Seminar Shai Belfer.pdf)
+
+Is markdown
+
+[Politics seminar Shai Belfer.pdf](/seminars/Politics seminar Shai Belfer.pdf)
+
