@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: hebrew
 permalink: /seminars_heb
 ---
 
