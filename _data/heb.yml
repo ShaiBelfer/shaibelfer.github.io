@@ -53,7 +53,7 @@ career-profile:
       Blah blah blah.
       
 projects:
-    title: Projects
+    title: Projects (but in Hebrew)
     intro: >
       Here's where you get to see me in action.
     assignments:
@@ -74,11 +74,11 @@ projects:
         tagline: "This is a work in progress."
 
       - title: Articles for Chupchik
-        link: "/articles"
+        link: "/articles_heb"
         tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"
         
       - title: Seminar Paper in Anthropology - Hebrew
-        link: "/seminars"
+        link: "/seminars_heb"
         tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"
 
       - title: Seminar Paper in Political Science - Hebrew
