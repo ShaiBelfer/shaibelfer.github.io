@@ -8,27 +8,26 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: HEBREW TEST
-    tagline: Data Analyst
+    name: שי בלפר
+    tagline: דאטה אנליסט | עיתונאי | כותב | עורך מוזיקלי
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: shaibelfer@gmail.com 
     phone: +972-522326403
     timezone: Asia/Jerusalem Timezone
-    citizenship: Israeli, Canadian, Australian
     linkedin: shai-belfer
     github: shaibelfer
     pdf: 
 
     languages:
-      title: Languages
+      title: שפות
       info:
-        - idiom: English
-          level: Native
+        - idiom: אנגלית
+          level: שפת אם
 
-        - idiom: Hebrew
-          level: Native
+        - idiom: עברית
+          level: שפת אם
 
     interests:
       title: Interests

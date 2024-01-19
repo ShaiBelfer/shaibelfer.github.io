@@ -75,72 +75,65 @@ projects:
 
       - title: Articles for Chupchik
         link: "/articles"
-        tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"
+        tagline: "These are articles I wrote for the student newspaper of BGU, "Chupchik", between 2018 and 2019. All articles are in Hebrew."
         
-      - title: Seminar Paper in Anthropology - Hebrew
+      - title: Seminar Papers
         link: "/seminars"
-        tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"
-
-      - title: Seminar Paper in Political Science - Hebrew
-        link: "#"
-        tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"        
+        tagline: "These are the seminar papers I wrote in BGU, for the courses "Ethnicity in Israel: Anthropological Perspectives" and "The Israeli Democracy In Regression?". Both papers are in Hebrew."
+  
         
 
 education:
+    title: Education
+    info:
+      - degree: Data Analysis and BI
+        university: INT College
+        time: 2022-2024
+        details: |
+          Syllabus included SQL, Python, Pandas, Numpy, Scipy and Matplotlib. Also included were usage of data visualization tools such as Power BI, Tableau, and Microsoft Excel.
+          Our final project involved analysis of a large dataset for business insights - Available for viewing (here).
     title: Education
     info:
       - degree: B.A. in Political Science, Sociology and Anthropology
         university: Ben Gurion University of the Negev
         time: 2017 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Notable courses: Fundamentals of Statistics, Statistical Research Methods, Qualitative Research Methods, Computer for Economists (Microsoft Excel course)
+          Seminar papers on the connections between democratic backsliding and populist leadership, and on expressions of ethnicity in an English-speaking theater group. Both involved analysis and application of theoretical frameworks on real world cases. Available (in Hebrew) (Here).
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Registrar
+        time: 2022 - 2023
+        company: Madatech – The Israel National Museum of Science, Technology, and Space
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Data collection, standardization, and maintenance regarding former and past exhibits, using Excel and other MS office tools.
+            - Upkeep of metadata of historical collection objects
+      - role: Assistant Archivist
+        time: 2021-2022
+        company: Ben Gurion Institute at Sde Boker
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Cataloged and organized historical documents.
+      - role: Data entry and assistance to Chief Financial & Information Officer
+        time: 2019-2020
+        company: Ben Gurion University of the Negev
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Built complex Excel spreadsheets regarding donor information
+            - Trained and worked with Salesforce systems
+      - role: Writer
+        time: 2018-2019
+        company: Chupchik Magazine (Official magazine for Ben Gurion University student union)
+        details: |
+            - Light-hearted articles on music, pop culture and student life
+      - role: Music Editor
+        time: 2014-2017
+        company: Galei Tzahal and Galgalatz (IDF army service)
+        details: |
+            - Music editor for weekdays nighttime show (“Shtikat Hakvishim”) on Galgalatz, and membership of playlist committee
+            - Graduated from Galei Tzahal journalism course.
+            - Cataloged and organized an expensive CD library.
+            - Analyzed and collected chart votes and listener requests, incl. reports to superiors and actionable recommendations for editorial policy
 
 certifications:
       title: Certifications
