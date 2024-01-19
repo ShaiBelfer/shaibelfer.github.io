@@ -59,29 +59,22 @@ projects:
       - title: Final Project for Data Analyst Course (INT College, Jan 2024)
         link: "#"
         tagline: "This is the presentation we made for our project, an analysis of data regarding taxis in Chicago in 2023. I wrote pretty much all the text in this slideshow. We received a grade of 100%"
-
       - title: SQL Code for Final Project
         link: "#"
         tagline: "This is the bit of SQL code I wrote for the project, with annotations."
-
       - title: Power BI Project - COVID Data (INT College, August 2023)
         link: "#"
         tagline: "This simple project presents some visualizations we made in Power BI, with insights about how the world's countries responded to the COVID-19 epidemic"
-
       - title: Python and Pandas Project - Migrant workers in Israel data
         link: "#"
         tagline: "This is a work in progress."
-
       - title: Articles for Chupchik
         link: "/articles"
         tagline: "These are articles I wrote for the student newspaper of BGU, 'Chupchik', between 2018 and 2019. All articles are in Hebrew."
-
       - title: Seminar Papers
         link: "/seminars"
-        tagline: "These are the seminar papers I wrote in BGU, for the courses "Ethnicity in Israel: Anthropological Perspectives" and "The Israeli Democracy In Regression?". Both papers are in Hebrew."
+        tagline: "These are the seminar papers I wrote in BGU, for the courses 'Ethnicity in Israel: Anthropological Perspectives' and 'The Israeli Democracy In Regression?'. Both papers are in Hebrew."
   
-        
-
 education:
     title: Education
     info:
