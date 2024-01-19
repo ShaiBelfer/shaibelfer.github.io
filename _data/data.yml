@@ -16,7 +16,6 @@ sidebar:
     email: shaibelfer@gmail.com 
     phone: +972-522326403
     timezone: Asia/Jerusalem Timezone
-    citizenship: Israeli, Canadian, Australian
     linkedin: shai-belfer
     github: shaibelfer
     pdf: 
@@ -75,8 +74,8 @@ projects:
 
       - title: Articles for Chupchik
         link: "/articles"
-        tagline: "These are articles I wrote for the student newspaper of BGU, "Chupchik", between 2018 and 2019. All articles are in Hebrew."
-        
+        tagline: "These are articles I wrote for the student newspaper of BGU, 'Chupchik', between 2018 and 2019. All articles are in Hebrew."
+
       - title: Seminar Papers
         link: "/seminars"
         tagline: "These are the seminar papers I wrote in BGU, for the courses "Ethnicity in Israel: Anthropological Perspectives" and "The Israeli Democracy In Regression?". Both papers are in Hebrew."
@@ -125,7 +124,7 @@ experiences:
         time: 2018-2019
         company: Chupchik Magazine (Official magazine for Ben Gurion University student union)
         details: |
-            - Light-hearted articles on music, pop culture and student life
+            - Light-hearted articles on music, pop culture and student life (Available (here) - In Hebrew)
       - role: Music Editor
         time: 2014-2017
         company: Galei Tzahal and Galgalatz (IDF army service)
@@ -135,69 +134,27 @@ experiences:
             - Cataloged and organized an expensive CD library.
             - Analyzed and collected chart votes and listener requests, incl. reports to superiors and actionable recommendations for editorial policy
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: SQL
+        level: 100%
+        
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Pandas
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Tableau
+        level: 100%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Power BI & DAX
+        level: 100%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Microsoft Excel
+        level: 100%
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
