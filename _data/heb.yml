@@ -30,180 +30,132 @@ sidebar:
           level: שפת אם
 
     interests:
-      title: Interests
+      title: תחביבים
       info:
-        - item: Movies
+        - item: קולנוע
           link:
 
-        - item: Music
+        - item: מוזיקה
           link:
 
-        - item: Politics
+        - item: פוליטיקה
           link:
           
-        - item: Cats
+        - item: חתולים
 
 career-profile:
-    title: Career Profile
+    title: אודות
     summary: |
-      פרח של צמח מהסוג פרע, סוג גדול של צמחים בעלי פרחים במשפחת הפרעיים, שלהם לרוב פרחים צהובים ואבקנים מרובים.
-      סוג זה כולל כ-460 מינים, רובם עשבים ומיעוטם שיחים, הנפוצים על פני רוב אזורי כדור הארץ, אך נעדרים מהקטבים ומן המדבריות
-      עשרה מינים מסוג זה מצויים בארץ ישראל. למינים אחדים מסוג זה חשיבות כצמחי מרפא.
-      Blah blah blah.
+      איזה כיף שבאתם לבקר!
+      קוראים לי שי. אני דאטה אנליסט, תוכניתן, כותב, מתרגם, וגם מבשל (אבל לא משהו מורכב יותר מחביתה).
+      אי שם בעבר הייתי גם עורך מוזיקלי בגלגלצ. מוזיקה היא עדיין חלק גדול מחיי.
+      באתר זה תוכלו לראות כמה מהדברים שעשיתי, ובתקווה תקבלו גם רושם מכמה מהדברים שאני יכול לעשות. 
+      תהנו!
       
 projects:
-    title: Projects (but in Hebrew)
+    title:  פרויקטים
     intro: >
-      Here's where you get to see me in action.
+      כאן תוכלו לראות אותי בפעולה!
     assignments:
-      - title: Final Project for Data Analyst Course (INT College, Jan 2024)
+      - title: פרויקט סופי, קורס דאטה אנליסט במכללת INT (ינואר 2024)
         link: "#"
-        tagline: "This is the presentation we made for our project, an analysis of data regarding taxis in Chicago in 2023. I wrote pretty much all the text in this slideshow. We received a grade of 100%"
+        tagline: "זוהי המצגת שיצרנו להצגת פרויקט הסיום בקורס, ניתוח מידע על מוניות בעיר שיקגו בשנת 2023. כמעט כל הטקסט במצגת נכתב על ידי. קיבלנו ציון 100."
 
-      - title: SQL Code for Final Project
+      - title: קוד SQL לפרויקט הסופי
         link: "#"
-        tagline: "This is the bit of SQL code I wrote for the project, with annotations."
+        tagline: "קוד ה-SQL שכתבתי לפרויקט הסופי, עם הערות כמובן"
 
       - title: Power BI Project - COVID Data (INT College, August 2023)
         link: "#"
-        tagline: "This simple project presents some visualizations we made in Power BI, with insights about how the world's countries responded to the COVID-19 epidemic"
+        tagline: "פרויקט זה מציג ויזואליזציות למידע הנוגע למגפת הקורונה ותגובת מדינות העולם למגפה. זהו קובץ PDF - אוכל לשלוח את קובץ הPower BI האינטראקטיבי לפי דרישה."
 
       - title: Python and Pandas Project - Migrant workers in Israel data
         link: "#"
-        tagline: "This is a work in progress."
+        tagline: "פרויקט זה עדיין אינו גמור."
 
-      - title: Articles for Chupchik
+      - title: כתבות לצ'ופצ'יק
         link: "/articles_heb"
-        tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"
+        tagline: "כתבות שכתבתי לעיתון אגודת הסטודנטים של אוניברסיטת בן גוריון."
         
-      - title: Seminar Paper in Anthropology - Hebrew
+      - title: עבודות סמינר
         link: "/seminars_heb"
-        tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"
+        tagline: "עבודות הסמינר בתואר הראשון שלי, בסוציולוגיה ואנתרופולוגיה ובפוליטיקה וממשל."
 
-      - title: Seminar Paper in Political Science - Hebrew
-        link: "#"
-        tagline: "some writing samples in Hebrew. Zemmy please decide how do be this part"        
         
 
 education:
-    title: Education
+    title: השכלה
     info:
-      - degree: B.A. in Political Science, Sociology and Anthropology
+      - degree: Data Analysis and BI
+        university: מכללת INT
+        time: 2022-2024
+        details: |
+            - לימודיי כללו הכשרה בשפות SQL, Python והספריות Pandas, NumPy, SciPy ו- Matplotlib. כמו כן, למדתי להשתמש בכלי ויזואליזציה לדאטה כמו Power-BI, Tableau, ואקסל.
+            - הפרויקט הסופי שלנו כלל אנליזה של מסד נתונים גדול והפקת תובנות עסקיות מתוכו. הוא זמין לצפייה (כאן).
+      - degree: תואר ראשון - סוציולוגיה ואנתרופולוגיה / פוליטיקה וממשל (דו חוגי)
         university: אוניברסיטת בן-גוריון בנגב
         time: 2017 - 2022
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: |  
+            - קורסים נבחרים: מבוא לסטטיסטיקה, שיטות מחקר כמותיות, שיטות מחקר איכותניות, מחשבים לכלכלנים (קורס אקסל).
+            -  עבודות סמינר בנושא הקשר בין נסיגה דמוקרטית להנהגה פופוליסטית, ובנושא ביטויי אתניות במסגרת קבוצת תיאטרון דוברת אנגלית בישראל. במהלך העבודות ביצעתי ניתוח והשמה של מסגרות תיאורטיות על מקרים בשטח. ניתן לקרוא את הכתבות (כאן).
 
 experiences:
-    title: Experiences
+    title: ניסיון תעסוקתי
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: רשם
+        time: 2022 - 2023
+        company: מדעטק: המוזיאון הלאומי למדע, טכנולוגיה וחלל, חיפה
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - איסוף, עיבוד, סטנדרטיזציה ותחזוקת מידע ורישומים הנוגעים בתערוכות עבר והווה, תוך שימוש באקסל וכלי Office MS אחרים. 
+            -  תחזוקת מטא-נתונים (Metadata) אודות פריטים באוסף ההיסטורי.
+      - role: עוזר ארכיונאי
+        time: 2021-2022
+        company: מכון בן גוריון לחקר ישראל והציונות, שדה בוקר
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - קטלוג וארגון מסמכים היסטוריים.
+      - role: מזין נתונים ועוזר לסמנכ"ל כספים ומידע
+        time: 2019-2020
+        company: אוניברסיטת בן-גוריון בנגב
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            - בניית גליונות אקסל מורכבים בעבור ניהול מערכת התורמים
+            -  עבודה ואימון במערכות סיילספורס (Salesforce)
+      - role: כתב
+        time: 2018-2019
+        company: עיתון צ'ופצ'יק - האגודה הסטודנטיאלית, אוניברסיטת בן גוריון
+        details: |
+            - כתבות בנושאי מוזיקה, חיי הסטודנטים ותרבות הפופ. זמין לצפייה (כאן).
+      - role: עורך מוזיקלי
+        time: 2014-2017
+        company: גלי צה"ל וגלגלצ (שירות חובה)
+        details: |
+            -  עורך התוכנית הלילית בימי חול ("שתיקת הכבישים") בגלגלצ, וחבר ועידת הפלייליסט.
+            -  בוגר קורס עיתונאי צבאי של גלי צה"ל.
+            - קטלוג וארגון ספריית דיסקים (תקליטייה) בעלת היקף גדול
+            - עורך ערוצי מוזיקה במטוסי אל על.
+            - אנליזה ואיסוף של הצבעות מצעדים ובקשות מאזינים, כולל הכנת דו"חות לבכירי התחנה ונתינת המלצות עבור מדיניות התחנה והצעות לפעולה.
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: כישורים
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: SQL
+        level: 100%
+        
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Pandas
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Tableau
+        level: 100%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Power BI & DAX
+        level: 100%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Microsoft Excel
+        level: 100%
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -26,19 +26,20 @@ permalink: /articles_heb
 
 ## טור "VS":
 
-These articles compare two rival topics and try to find which is better.
+בטור זה ערכתי השוואה בין שני נושאים הנחשבים "יריבים" וניסיתי להחליט ביניהם.
 
-[Android vs iOS](/articles/shai article - android vs apple.pdf)
+[אנדרואיד VS אייפון](/articles/shai article - android vs apple.pdf)
 
-[Cats vs Dogs](/articles/shai article - cats vs dogs.pdf)
+[כלבים VS חתולים](/articles/shai article - cats vs dogs.pdf)
 
-[Taking Notes on a Laptop vs Taking Notes in a Notebook](/articles/shai article - computer vs notebook.pdf)
+[כתיבת הערות במחברת VS כתיבת הערות במחשב](/articles/shai article - computer vs notebook.pdf)
 
-[Vacationing in Israel vs Vacationing Abroad](/articles/Shai article - Israel vs Abroad.pdf)
+[חופשה בישראל VS חופשה בחו"ל](/articles/Shai article - Israel vs Abroad.pdf)
 
-[Pokemon vs Digimon](/articles/shai article - pokemon vs digimon.pdf)
+[פוקימון VS דיג'ימון](/articles/shai article - pokemon vs digimon.pdf)
 
-Other Articles:
-[A Visit To IKEA](/articles/Shai article - Ikea.pdf)
-This light-hearted article describes a visit to IKEA Be'er Sheva and the place IKEA holds in student life.
+## כתבות אחרות:
 
+[ביקור באיקאה](/articles/Shai article - Ikea.pdf)
+
+כתבה זו מתארת ביקור בסניף באר שבע של איקאה, ואת מקומה של איקאה בחיי סטודנטים.

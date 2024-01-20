@@ -3,13 +3,7 @@ layout: default
 permalink: /seminars
 ---
 
-# Test
+# Seminars
 
-Some text here
-
-[Athropology seminar link](/seminars/Anthropology Seminar Shai Belfer.pdf)
-
-Is markdown
-
-[Politics seminar Shai Belfer.pdf](/seminars/Politics seminar Shai Belfer.pdf)
+In the Hebrew version of this page you can find the papers I gave in for my seminar courses in my B.A., in Ben-Gurion University.
 

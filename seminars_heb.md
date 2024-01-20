@@ -3,13 +3,15 @@ layout: hebrew
 permalink: /seminars_heb
 ---
 
-# Hebrew page test
+# סמינרים
 
-Some text here
+מאמרי הסיכום של הסמינרים בתואר הראשון שלי באוניברסיטת בן גוריון.
+ 
+[מאמר אנתרופולוגיה](/seminars/Anthropology Seminar Shai Belfer.pdf)
 
-[Athropology seminar link](/seminars/Anthropology Seminar Shai Belfer.pdf)
+"אתניות חזקה, דת והיעדרה, ופערי הדורות בקבוצת תיאטרון חובבים דוברת אנגלית בעומר". נכתב במסגרת הסמינר "אתניות בישראל: היבטים אנתרופולוגיים", של פרופ' אנדרה לוי. אוגוסט 2022.
 
-Is markdown
 
-[Politics seminar Shai Belfer.pdf](/seminars/Politics seminar Shai Belfer.pdf)
+[מאמר פוליטיקה וממשל](/seminars/Politics seminar Shai Belfer.pdf)
 
+"בנימין נתניהו כמנהיג פופוליסט ושאלת נסיגת הדמוקרטיה בישראל (2009-2021)". נכתב במסגרת הסמינר "האם הדמוקרטיה בישראל נמצאת בנסיגה", של ד"ר גל אריאלי. נובמבר 2021.
