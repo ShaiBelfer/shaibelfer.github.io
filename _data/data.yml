@@ -83,7 +83,7 @@ education:
         time: 2022-2024
         details: |
           - Syllabus included SQL, Python, Pandas, Numpy, Scipy and Matplotlib. Also included were usage of data visualization tools such as Power BI, Tableau, and Microsoft Excel.
-          - Our final project involved analysis of a large dataset for business insights - Available for viewing (here).
+          - Our final project involved analysis of a large dataset for business insights - Available for viewing (<a href="#">here</a>).
       - degree: B.A. in Political Science, Sociology and Anthropology
         university: Ben Gurion University of the Negev
         time: 2017 - 2022
