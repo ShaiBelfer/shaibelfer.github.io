@@ -57,10 +57,10 @@ projects:
       Here's where you get to see me in action.
     assignments:
       - title: Final Project for Data Analyst Course (INT College, Jan 2024)
-        link: "#"
+        link: "/projects/data_analyst_course/presentation.pdf"
         tagline: "This is the presentation we made for our project, an analysis of data regarding taxis in Chicago in 2023. I wrote pretty much all the text in this slideshow. We received a grade of 100%"
       - title: SQL Code for Final Project
-        link: "#"
+        link: "/projects/data_analyst_course/code.sql"
         tagline: "This is the bit of SQL code I wrote for the project, with annotations."
       - title: Power BI Project - COVID Data (INT College, August 2023)
         link: "#"
@@ -83,13 +83,13 @@ education:
         time: 2022-2024
         details: |
           - Syllabus included SQL, Python, Pandas, Numpy, Scipy and Matplotlib. Also included were usage of data visualization tools such as Power BI, Tableau, and Microsoft Excel.
-          - Our final project involved analysis of a large dataset for business insights - Available for viewing (<a href="#">here</a>).
+          - Our final project involved analysis of a large dataset for business insights - Available for viewing (<a href="/projects/data_analyst_course/presentation.pdf">here</a>).
       - degree: B.A. in Political Science, Sociology and Anthropology
         university: Ben Gurion University of the Negev
         time: 2017 - 2022
         details: |
           - Notable courses: Fundamentals of Statistics, Statistical Research Methods, Qualitative Research Methods, Computer for Economists (Microsoft Excel course)
-          - Seminar papers on the connections between democratic backsliding and populist leadership, and on expressions of ethnicity in an English-speaking theater group. Both involved analysis and application of theoretical frameworks on real world cases. Available (in Hebrew) (Here).
+          - Seminar papers on the connections between democratic backsliding and populist leadership, and on expressions of ethnicity in an English-speaking theater group. Both involved analysis and application of theoretical frameworks on real world cases. Available (in Hebrew) (<a href="/seminars_heb">Here</a>).
 
 experiences:
     title: Experiences
@@ -115,7 +115,7 @@ experiences:
         time: 2018-2019
         company: Chupchik Magazine (Official magazine for Ben Gurion University student union)
         details: |
-            - Light-hearted articles on music, pop culture and student life (Available (here) - In Hebrew)
+            - Light-hearted articles on music, pop culture and student life (Available (<a href="/articles">here</a>) - In Hebrew)
       - role: Music Editor
         time: 2014-2017
         company: Galei Tzahal and Galgalatz (IDF army service)
