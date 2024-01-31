@@ -58,15 +58,15 @@ projects:
       כאן תוכלו לראות אותי בפעולה!
     assignments:
       - title: פרויקט סופי, קורס דאטה אנליסט במכללת INT (ינואר 2024)
-        link: "#"
+        link: "/projects/data_analyst_course/presentation.pdf"
         tagline: "זוהי המצגת שיצרנו להצגת פרויקט הסיום בקורס, ניתוח מידע על מוניות בעיר שיקגו בשנת 2023. כמעט כל הטקסט במצגת נכתב על ידי. קיבלנו ציון 100."
 
       - title: קוד SQL לפרויקט הסופי
-        link: "#"
+        link: "/projects/data_analyst_course/code.sql"
         tagline: "קוד ה-SQL שכתבתי לפרויקט הסופי, עם הערות כמובן"
 
       - title: Power BI Project - COVID Data (INT College, August 2023)
-        link: "#"
+        link: "/projects/data_analyst_course/Data Viz Project.pdf"
         tagline: "פרויקט זה מציג ויזואליזציות למידע הנוגע למגפת הקורונה ותגובת מדינות העולם למגפה. זהו קובץ PDF - אוכל לשלוח את קובץ הPower BI האינטראקטיבי לפי דרישה."
 
       - title: Python and Pandas Project - Migrant workers in Israel data

@@ -63,8 +63,8 @@ projects:
         link: "/projects/data_analyst_course/code.sql"
         tagline: "This is the bit of SQL code I wrote for the project, with annotations."
       - title: Power BI Project - COVID Data (INT College, August 2023)
-        link: "#"
-        tagline: "This simple project presents some visualizations we made in Power BI, with insights about how the world's countries responded to the COVID-19 epidemic"
+        link: "/projects/data_analyst_course/Data Viz Project.pdf"
+        tagline: "This simple project presents some visualizations we made in Power BI, with insights about how the world's countries responded to the COVID-19 epidemic. (Power BI file available upon request.)"
       - title: Python and Pandas Project - Migrant workers in Israel data
         link: "#"
         tagline: "This is a work in progress."
