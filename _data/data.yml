@@ -57,7 +57,7 @@ projects:
       Here's where you get to see me in action.
     assignments:
       - title: Dashboard built for Roga Analytics
-        link: "/projects/roga_analytics/dashboard.md"
+        link: "/projects/roga_analytics/dashboard"
         tagline: "Our client was an American social service agency that required help in organizing the active tasks for their care managers. This complex dashboard featured multiple pages with dynamic views and a unique password system based on Microsoft SharePoint, bypassing the need for more than Power BI Service accounts. The details of the dashboard have been blurred for the sake of the client’s privacy."
       - title: Final Project for Data Analyst Course (INT College, Jan 2024)
         link: "/projects/data_analyst_course/presentation.pdf"
