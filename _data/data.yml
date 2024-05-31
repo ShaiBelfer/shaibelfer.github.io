@@ -80,12 +80,11 @@ projects:
   
 writing:
     title: Writing
-    intro: >
-      Test
+    intro: ""
     assignments:
-      - title: Test
-        link: "/test"
-        tagline: "Test"
+      - title: Movie reviews on Letterboxd
+        link: "https://letterboxd.com/belfman/"
+        tagline: "I’ve always been a film geek, and from time to time I write humorous and informative reviews of movies and TV shows I watch on my Letterboxd account. I write them both in English and Hebrew."
   
 education:
     title: Education
