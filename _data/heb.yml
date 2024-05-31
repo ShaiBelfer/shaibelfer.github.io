@@ -106,6 +106,13 @@ education:
 experiences:
     title: ניסיון תעסוקתי
     info:
+      - role: Data Analyst
+        time: 2024
+        company: Roga Analytics
+        details: |
+            - בעבודה זו התמחיתי ביצירה ובתחזוקה של דשבורדים ללקוחות בתעשיות שונות, בעיקר במגזר הרפואי.
+            - ⦁	ניתן למצוא דוגמאות לעבודתי <a href="/projects/roga_analytics/dashboard_heb">כאן</a>. 
+
       - role: רשם
         time: 2022 - 2023
         company: "מדעטק, המוזיאון הלאומי למדע, טכנולוגיה וחלל, חיפה"

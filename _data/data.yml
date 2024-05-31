@@ -75,7 +75,7 @@ projects:
         link: "/articles"
         tagline: "These are articles I wrote for the student newspaper of BGU, 'Chupchik', between 2018 and 2019. All articles are in Hebrew."
       - title: Seminar Papers
-        link: "/seminars"
+        link: "/seminars_heb"
         tagline: "These are the seminar papers I wrote in BGU, for the courses 'Ethnicity in Israel: Anthropological Perspectives' and 'The Israeli Democracy In Regression?'. Both papers are in Hebrew."
   
 writing:
@@ -110,6 +110,7 @@ experiences:
         company: Roga Analytics
         details: |
             - Specialization in creating and maintaining Power BI dashboards for a diverse range of clients, mostly in the healthcare industry.
+            - Some samples of my work can be found <a href="/projects/roga_analytics/dashboard">here</a>
       - role: Registrar
         time: 2022 - 2023
         company: Madatech – The Israel National Museum of Science, Technology, and Space
@@ -164,4 +165,4 @@ skills:
         level: 100%
 
 footer: >
-    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>. Developed by <a href="https://zemmyang.com/" target="_blank" rel="nofollow">Angeleene Ang</a>.
