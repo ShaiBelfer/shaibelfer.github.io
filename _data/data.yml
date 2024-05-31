@@ -78,6 +78,15 @@ projects:
         link: "/seminars"
         tagline: "These are the seminar papers I wrote in BGU, for the courses 'Ethnicity in Israel: Anthropological Perspectives' and 'The Israeli Democracy In Regression?'. Both papers are in Hebrew."
   
+writing:
+    title: Writing
+    intro: >
+      Test
+    assignments:
+      - title: Test
+        link: "/test"
+        tagline: "Test"
+  
 education:
     title: Education
     info:
